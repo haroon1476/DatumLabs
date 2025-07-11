@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Haroon Ur Rasheed",
+        "grades": {
+            "Maths": 2.0,
+            "Computer": 3.5
+        }
+    },
+    {
+        "id": 2,
+        "name": "Saqlain Ahmed",
+        "grades": {
+            "English": 3.0,
+            "Urdu": 4.0
+        }
+    },
+    {
+        "id": 3,
+        "name": "Saqib Sir",
+        "grades": {
+            "English": 3.7
+        }
+    },
+    {
+        "id": 4,
+        "name": "Ali Usman",
+        "grades": {
+            "Stats": 3.0,
+            "Chemistry": 2.5,
+            "Physics": 4.0
+        }
+    }
+]
