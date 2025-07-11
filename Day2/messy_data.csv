@@ -1,0 +1,13 @@
+ID,Name , Age,City,Joining Date,Salary,Department
+1,Alice ,25,New York,2020-01-15,55000,HR
+2,Bob,,Los Angeles,15/02/2020,,Human Resources
+3,,30,Chicago,March 3 2020,60000,HR
+004,Charlie,35,Chicago,2020.03.04,$65,000,Sales
+5,David ,thirty-eight,Boston,2020/05/12,58000,Sales
+6,Emily,27,Los Angeles,,54000,Sales
+7,BOB,29,los angeles,2020-07-18,62000,Marketing
+8,Alice,25,NEW YORK,2020-01-15,55000,HR
+,George,33,Houston,2020-09-01,,
+10,Mary,28,Seattle,2020-10-20,NaN,Engineering
+11,"Smith, John",45,"SAN FRANCISCO CALIFORNIA, CA",2020-11-01,"70,000",IT
+12,Jane,32,Toronto,2020-12-05,68000,

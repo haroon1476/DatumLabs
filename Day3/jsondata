@@ -1,0 +1,6 @@
+id,first_name,last_name,position,salary,department
+1,John,Doe,Software Engineer,85000,Engineering
+2,Jane,Smith,Data Analyst,75000,Data Science
+3,Sam,Brown,Product Manager,95000,Product
+4,Emily,Davis,HR Specialist,65000,Human Resources
+5,Michael,Wilson,UX Designer,72000,Design

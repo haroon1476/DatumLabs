@@ -1,0 +1,12 @@
+id,name,age,city,joining_date,salary,department
+1.0,Alice ,25,New York,15-01-20,55000,HR
+2.0,Bob,Unknown,Los Angeles,Unknown,Unknown,Human Resources
+3.0,Ghost,30,Chicago,Unknown,60000,HR
+5.0,David ,thirty-eight,Boston,Unknown,58000,Sales
+6.0,Emily,27,Los Angeles,Unknown,54000,Sales
+7.0,BOB,29,Los Angeles,18-07-20,62000,Marketing
+8.0,Alice,25,New York,15-01-20,55000,HR
+13.0,George,33,Houston,01-09-20,Unknown,Unknown
+10.0,Mary,28,Seattle,20-10-20,Unknown,Engineering
+11.0,"Smith, John",45,"San Francisco California, Ca",01-11-20,"70,000",IT
+12.0,Jane,32,Toronto,05-12-20,68000,Unknown

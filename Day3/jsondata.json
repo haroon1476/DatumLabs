@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "profile": {
+      "age": 30,
+      "email": "johndoe@example.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "CityName",
+        "country": "CountryA",
+        "zipcode": "12345"
+      },
+      "phoneNumbers": [
+        {
+          "type": "mobile",
+          "number": "+123456789"
+        },
+        {
+          "type": "home",
+          "number": "+987654321"
+        }
+      ]
+    },
+      "age": 30,
+      "email": "johndoe@example.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "CityName",
+        "country": "CountryA",
+        "zipcode": "12345"
+      },
+    "skills": ["Python", "Data Science", "Machine Learning"],
+    "projects": [
+      {
+        "name": "AI Chatbot",
+        "technology": "Python, TensorFlow",
+        "status": "completed",
+        "details": {
+          "description": "Built a chatbot using NLP.",
+          "duration": "6 months",
+          "teamMembers": ["Alice", "Bob"]
+        }
+      },
+      {
+        "name": "Data Visualization Dashboard",
+        "technology": "Power BI, Python",
+        "status": "in-progress",
+        "details": {
+          "description": "Created interactive dashboards for sales data.",
+          "duration": "3 months",
+          "teamMembers": ["Alice", "Charlie"]
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "profile": {
+      "age": 28,
+      "email": "janesmith@example.com",
+      "address": {
+        "street": "456 Elm St",
+        "city": "AnotherCity",
+        "country": "CountryB",
+        "zipcode": "67890"
+      },
+      "phoneNumbers": [
+        {
+          "type": "mobile",
+          "number": "+234567890"
+        }
+      ]
+    },
+    "skills": ["Java", "Spring", "Microservices", "Cloud Computing"],
+    "projects": [
+      {
+        "name": "E-commerce Platform",
+        "technology": "Java, Spring, PostgreSQL",
+        "status": "completed",
+        "details": {
+          "description": "Developed a fully-fledged e-commerce platform.",
+          "duration": "1 year",
+          "teamMembers": ["David", "Eve", "Frank"]
+        }
+      },
+      {
+        "name": "Cloud Infrastructure Setup",
+        "technology": "AWS, Terraform",
+        "status": "completed",
+        "details": {
+          "description": "Set up cloud infrastructure for client X.",
+          "duration": "2 months",
+          "teamMembers": ["Eve", "Grace"]
+        }
+      }
+    ]
+  }
+]
