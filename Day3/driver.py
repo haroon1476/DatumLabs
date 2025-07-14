@@ -58,5 +58,5 @@ def saveToCSVFile(df, filename):
         logging.error("Conversion failed!")
 
 # Function call
-df = ConvertJsonToCsv('jsondata.json')
-saveToCSVFile(df, 'csvdata.csv')
+df = ConvertJsonToCsv('Day3/jsondata.json')
+saveToCSVFile(df, 'Day3/csvdata.csv')

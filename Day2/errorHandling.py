@@ -32,12 +32,6 @@ class BankAccount:
             #  self.balance += amount
             if not isinstance(amount, (int, float)):
                 raise ValueError("Deposit amount must be positive.")
-            #     raise TypeError("Amount must be a number (int or float).")
-            # if amount <= 0:
-            #     raise ValueError("Deposit amount must be positive.")
-            # else:
-            #     self.balance += amount
-            #     print(f"Deposited ${amount}. New balance: ${self.balance}")
         except ValueError as e:
             print(f"Deposit value error: {e}")
         except Exception as e:

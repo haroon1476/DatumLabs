@@ -1,0 +1,89 @@
+{
+    "user_id": 12345,
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "address": {
+        "street": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "postal_code": "10001",
+        "geo": {
+            "lat": 40.7128,
+            "lng": -74.0060
+        }
+    },
+    "phone_numbers": [
+        {
+            "type": "mobile",
+            "number": "+1-555-1234"
+        },
+        {
+            "type": "home",
+            "number": "+1-555-5678"
+        }
+    ],
+    "orders": [
+        {
+            "order_id": "A001",
+            "date": "2023-01-15",
+            "items": [
+                {
+                    "item_id": "I001",
+                    "product_name": "Laptop",
+                    "quantity": 1,
+                    "price": 899.99
+                },
+                {
+                    "item_id": "I002",
+                    "product_name": "Mouse",
+                    "quantity": 2,
+                    "price": 25.99
+                }
+            ],
+            "shipping": {
+                "address": {
+                    "street": "456 Elm St",
+                    "city": "Brooklyn",
+                    "state": "NY",
+                    "postal_code": "11201"
+                },
+                "method": "Standard",
+                "cost": 15.00
+            },
+            "total_amount": 966.97
+        },
+        {
+            "order_id": "A002",
+            "date": "2023-02-20",
+            "items": [
+                {
+                    "item_id": "I003",
+                    "product_name": "Headphones",
+                    "quantity": 1,
+                    "price": 199.99
+                }
+            ],
+            "shipping": {
+                "address": {
+                    "street": "789 Oak St",
+                    "city": "Queens",
+                    "state": "NY",
+                    "postal_code": "11375"
+                },
+                "method": "Express",
+                "cost": 30.00
+            },
+            "total_amount": 229.99
+        }
+    ],
+    "preferences": {
+        "newsletter": true,
+        "sms_alerts": false,
+        "dark_mode": true
+    },
+    "social_media": {
+        "facebook": "john.doe.fb",
+        "twitter": "@johndoe",
+        "linkedin": "john-doe-linkedin"
+    }
+}

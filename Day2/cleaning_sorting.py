@@ -96,10 +96,10 @@ def sortData(attribute, filename):
     
 
 # FIlling the missing values 
-applyCleaning('messy_data.csv')
+applyCleaning('Day2/messy_data.csv')
 print("Cleaning applied!")
 
 attribute = input("Enter attribute on the basis of which sorting has to take place : ")
 
 # Function call to sort
-sortData(attribute , 'cleaned_data.csv')
+sortData(attribute , 'Day2/cleaned_data.csv')
