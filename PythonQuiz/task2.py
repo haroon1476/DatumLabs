@@ -2,7 +2,7 @@ def sortDict(myDict):
   
     # fist converting dictionary to list to apply some sortig algo
     items = [(k,v) for k,v in myDict.items()]
-    #print(items)
+    print(items)
 
     # Applying selection sort by value
     for i in range(len(items)):

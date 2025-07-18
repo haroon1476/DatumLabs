@@ -1,0 +1,2 @@
+user_id,user_name_first,user_name_last,location_country,location_city_name,location_city_postal_code,location_city_postal_area,account_created_at,account_status
+123,Alice,Johnson,Germanay,Berlin,10115,Mitte,2023-01-01,active
