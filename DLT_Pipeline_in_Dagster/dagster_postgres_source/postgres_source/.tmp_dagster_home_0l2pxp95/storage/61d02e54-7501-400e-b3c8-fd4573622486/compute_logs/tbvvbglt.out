@@ -1,0 +1,56 @@
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/2 (0.0%) | Time: 0.00s | Rate: 0.00/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/2 (0.0%) | Time: 3.77s | Rate: 0.00/s
+employees: 29  | Time: 0.00s | Rate: 5528855.27/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/2 (0.0%) | Time: 7.74s | Rate: 0.00/s
+employees: 29  | Time: 3.97s | Rate: 7.30/s
+customers: 129  | Time: 0.00s | Rate: 21642608.64/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 2/2 (100.0%) | Time: 8.97s | Rate: 0.22/s
+employees: 29  | Time: 5.20s | Rate: 5.57/s
+customers: 129  | Time: 1.23s | Rate: 104.59/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 2/2 (100.0%) | Time: 8.98s | Rate: 0.22/s
+employees: 29  | Time: 5.21s | Rate: 5.56/s
+customers: 129  | Time: 1.24s | Rate: 103.90/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s
+_dlt_pipeline_state: 1  | Time: 0.00s | Rate: 349525.33/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 1/1 (100.0%) | Time: 0.01s | Rate: 74.73/s
+_dlt_pipeline_state: 1  | Time: 0.01s | Rate: 87.69/s
+
+----------------- Normalize sql_database in 1753421838.3001494 -----------------
+Files: 0/3 (0.0%) | Time: 0.00s | Rate: 0.00/s
+
+----------------- Normalize sql_database in 1753421838.3001494 -----------------
+Files: 0/3 (0.0%) | Time: 0.00s | Rate: 0.00/s
+Items: 0  | Time: 0.00s | Rate: 0.00/s
+
+----------------- Normalize sql_database in 1753421838.3001494 -----------------
+Files: 3/3 (100.0%) | Time: 0.02s | Rate: 192.49/s
+Items: 159  | Time: 0.02s | Rate: 10237.39/s
+
+------------------- Load sql_database in 1753421838.3001494 --------------------
+Jobs: 0/3 (0.0%) | Time: 0.00s | Rate: 0.00/s
+
+------------------- Load sql_database in 1753421838.3001494 --------------------
+Jobs: 0/3 (0.0%) | Time: 13.36s | Rate: 0.00/s
+
+------------------- Load sql_database in 1753421838.3001494 --------------------
+Jobs: 3/4 (75.0%) | Time: 16.32s | Rate: 0.18/s
+
+------------------- Load sql_database in 1753421838.3001494 --------------------
+Jobs: 4/4 (100.0%) | Time: 17.26s | Rate: 0.23/s
+

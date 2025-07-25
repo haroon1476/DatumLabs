@@ -1,0 +1,42 @@
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 2.74s | Rate: 0.00/s
+employees: 38  | Time: 0.00s | Rate: 6929719.65/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 1/1 (100.0%) | Time: 3.21s | Rate: 0.31/s
+employees: 38  | Time: 0.47s | Rate: 81.36/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s
+_dlt_pipeline_state: 1  | Time: 0.00s | Rate: 246723.76/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 1/1 (100.0%) | Time: 0.01s | Rate: 72.69/s
+_dlt_pipeline_state: 1  | Time: 0.01s | Rate: 87.58/s
+
+----------------- Normalize sql_database in 1753421135.025117 ------------------
+Files: 0/2 (0.0%) | Time: 0.00s | Rate: 0.00/s
+
+----------------- Normalize sql_database in 1753421135.025117 ------------------
+Files: 0/2 (0.0%) | Time: 0.00s | Rate: 0.00/s
+Items: 0  | Time: 0.00s | Rate: 0.00/s
+
+----------------- Normalize sql_database in 1753421135.025117 ------------------
+Files: 2/2 (100.0%) | Time: 0.01s | Rate: 176.21/s
+Items: 39  | Time: 0.01s | Rate: 3451.45/s
+
+-------------------- Load sql_database in 1753421135.025117 --------------------
+Jobs: 0/2 (0.0%) | Time: 0.00s | Rate: 0.00/s
+
+-------------------- Load sql_database in 1753421135.025117 --------------------
+Jobs: 0/2 (0.0%) | Time: 8.80s | Rate: 0.00/s
+
+-------------------- Load sql_database in 1753421135.025117 --------------------
+Jobs: 2/2 (100.0%) | Time: 9.87s | Rate: 0.20/s
+

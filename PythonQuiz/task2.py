@@ -9,8 +9,8 @@ def sortDict(myDict):
         for j in range(i+1, len(items)):
             if (items[i][1] > items[j][1]):
 
-                # print(f" First item =  {items[i][1]}")
-                # print(f" Second item = {items[j][1]}")
+                print(f" First item =  {items[i][1]}")
+                print(f" Second item = {items[j][1]}")
 
                 #Swapping
                 temp = items[i]

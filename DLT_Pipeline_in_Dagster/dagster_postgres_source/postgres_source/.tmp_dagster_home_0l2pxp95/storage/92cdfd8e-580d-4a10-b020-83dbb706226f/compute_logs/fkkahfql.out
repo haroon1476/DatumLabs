@@ -1,0 +1,37 @@
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/2 (0.0%) | Time: 0.00s | Rate: 0.00/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/2 (0.0%) | Time: 3.77s | Rate: 0.00/s
+employees: 0  | Time: 0.00s | Rate: 0.00/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/2 (0.0%) | Time: 7.74s | Rate: 0.00/s
+employees: 0  | Time: 3.97s | Rate: 0.00/s
+customers: 129  | Time: 0.00s | Rate: 14623384.22/s
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 2/2 (100.0%) | Time: 8.68s | Rate: 0.23/s
+employees: 0  | Time: 4.90s | Rate: 0.00/s
+customers: 129  | Time: 0.93s | Rate: 138.14/s
+
+----------------- Normalize sql_database in 1753422356.6487668 -----------------
+Files: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s
+
+----------------- Normalize sql_database in 1753422356.6487668 -----------------
+Files: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s
+Items: 0  | Time: 0.00s | Rate: 0.00/s
+
+----------------- Normalize sql_database in 1753422356.6487668 -----------------
+Files: 1/1 (100.0%) | Time: 0.01s | Rate: 89.52/s
+Items: 129  | Time: 0.01s | Rate: 11587.47/s
+
+------------------- Load sql_database in 1753422356.6487668 --------------------
+Jobs: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s
+
+------------------- Load sql_database in 1753422356.6487668 --------------------
+Jobs: 0/1 (0.0%) | Time: 5.70s | Rate: 0.00/s
+
+------------------- Load sql_database in 1753422356.6487668 --------------------
+Jobs: 1/1 (100.0%) | Time: 7.59s | Rate: 0.13/s
+

@@ -1,0 +1,10 @@
+[32m2025-07-25 10:50:14 +0500[0m - dagster - [34mDEBUG[0m - run_postgres_asset - d42e3d70-6d9b-415e-ae5a-41da007cd96d - 61019 - LOGS_CAPTURED - Started capturing logs in process (pid: 61019).
+[32m2025-07-25 10:50:14 +0500[0m - dagster - [34mDEBUG[0m - run_postgres_asset - d42e3d70-6d9b-415e-ae5a-41da007cd96d - 61019 - postgres_asset - STEP_START - Started execution of step "postgres_asset".
+[32m2025-07-25 10:50:14 +0500[0m - dagster - [34mINFO[0m - run_postgres_asset - d42e3d70-6d9b-415e-ae5a-41da007cd96d - postgres_asset - Starting postgres to Snowflake data ingestion
+[32m2025-07-25 10:50:14 +0500[0m - dagster - [34mINFO[0m - run_postgres_asset - d42e3d70-6d9b-415e-ae5a-41da007cd96d - postgres_asset - Source = Postgres , Destination = Snowflake
+[32m2025-07-25 10:50:32 +0500[0m - dagster - [34mDEBUG[0m - run_postgres_asset - d42e3d70-6d9b-415e-ae5a-41da007cd96d - 61019 - postgres_asset - STEP_OUTPUT - Yielded output "dlt_sql_database_employees" of type "Nothing". (Type check passed).
+[32m2025-07-25 10:50:32 +0500[0m - dagster - [34mDEBUG[0m - run_postgres_asset - d42e3d70-6d9b-415e-ae5a-41da007cd96d - 61019 - postgres_asset - ASSET_MATERIALIZATION - Materialized value dlt_sql_database_employees.
+[32m2025-07-25 10:50:32 +0500[0m - dagster - [34mDEBUG[0m - run_postgres_asset - d42e3d70-6d9b-415e-ae5a-41da007cd96d - 61019 - postgres_asset - STEP_OUTPUT - Yielded output "dlt_sql_database_customers" of type "Nothing". (Type check passed).
+[32m2025-07-25 10:50:32 +0500[0m - dagster - [34mDEBUG[0m - run_postgres_asset - d42e3d70-6d9b-415e-ae5a-41da007cd96d - 61019 - postgres_asset - ASSET_MATERIALIZATION - Materialized value dlt_sql_database_customers.
+[32m2025-07-25 10:50:32 +0500[0m - dagster - [34mINFO[0m - run_postgres_asset - d42e3d70-6d9b-415e-ae5a-41da007cd96d - postgres_asset - Successfully completed postgres to Snowflake data ingestion
+[32m2025-07-25 10:50:32 +0500[0m - dagster - [34mDEBUG[0m - run_postgres_asset - d42e3d70-6d9b-415e-ae5a-41da007cd96d - 61019 - postgres_asset - STEP_SUCCESS - Finished execution of step "postgres_asset" in 17.68s.

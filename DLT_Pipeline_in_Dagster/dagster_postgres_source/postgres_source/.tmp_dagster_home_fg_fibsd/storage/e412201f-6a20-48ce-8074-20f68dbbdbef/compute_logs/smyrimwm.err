@@ -1,0 +1,8 @@
+[32m2025-07-25 10:29:32 +0500[0m - dagster - [34mDEBUG[0m - run_postgres_asset - e412201f-6a20-48ce-8074-20f68dbbdbef - 24192 - LOGS_CAPTURED - Started capturing logs in process (pid: 24192).
+[32m2025-07-25 10:29:32 +0500[0m - dagster - [34mDEBUG[0m - run_postgres_asset - e412201f-6a20-48ce-8074-20f68dbbdbef - 24192 - postgres_asset - STEP_START - Started execution of step "postgres_asset".
+[32m2025-07-25 10:29:32 +0500[0m - dagster - [34mINFO[0m - run_postgres_asset - e412201f-6a20-48ce-8074-20f68dbbdbef - postgres_asset - Starting postgres to Snowflake data ingestion
+[32m2025-07-25 10:29:32 +0500[0m - dagster - [34mINFO[0m - run_postgres_asset - e412201f-6a20-48ce-8074-20f68dbbdbef - postgres_asset - Source = Postgres , Destination = Snowflake
+[32m2025-07-25 10:29:44 +0500[0m - dagster - [34mDEBUG[0m - run_postgres_asset - e412201f-6a20-48ce-8074-20f68dbbdbef - 24192 - postgres_asset - STEP_OUTPUT - Yielded output "dlt_sql_database_employees" of type "Nothing". (Type check passed).
+[32m2025-07-25 10:29:44 +0500[0m - dagster - [34mDEBUG[0m - run_postgres_asset - e412201f-6a20-48ce-8074-20f68dbbdbef - 24192 - postgres_asset - ASSET_MATERIALIZATION - Materialized value dlt_sql_database_employees.
+[32m2025-07-25 10:29:45 +0500[0m - dagster - [34mINFO[0m - run_postgres_asset - e412201f-6a20-48ce-8074-20f68dbbdbef - postgres_asset - Successfully completed postgres to Snowflake data ingestion
+[32m2025-07-25 10:29:45 +0500[0m - dagster - [34mDEBUG[0m - run_postgres_asset - e412201f-6a20-48ce-8074-20f68dbbdbef - 24192 - postgres_asset - STEP_SUCCESS - Finished execution of step "postgres_asset" in 12.71s.
